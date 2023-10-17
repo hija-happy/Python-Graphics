@@ -1,5 +1,5 @@
 # Python-Graphics
-Drawing a Circle and a Square with Turtle Graphics
+Drawing a Circle and a Square with Turtle Graphics. 
 This Python program uses the Turtle graphics library to draw a red square and a green circle. 
 It also demonstrates how to fill these shapes with specified colors.
 
